@@ -1,2 +1,2 @@
-<progress value="10" max="100"></progress>
+### Personal Obsidian Notes. 
 

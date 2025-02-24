@@ -1,0 +1,8 @@
+- [ ] Chess with characters in spring, react. *Final Assignment Project for Sayar Kyaw.*
+- [ ] April Music Player project refactor. 
+- [ ] Publish Rate My Tutor. 
+- [ ] Create Facebook page and social media marketing for April Music Player. 
+- [ ] Create Facebook page for rate my tutor Myanmar. 
+- [ ] Naruto Senki Style Two Player game.
+- [ ] Tasks of Kaiden. 
+- [ ] Ecommence Style Website for Jewelry Industry.
